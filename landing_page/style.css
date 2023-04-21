@@ -1,0 +1,159 @@
+.navbar{
+    background-color: rgba(255, 0, 179, 0.705);
+    height:200px;
+    width:100%;
+
+}
+.list{
+    color:wheat;
+    display:block;
+}
+
+.logo{
+    display:flex;
+    width:400vw;
+    /* border:2px solid red; */
+    /* border: 2px solid pink; */
+}
+img{
+    /* margin-top:20px; */
+    padding-top:30px;
+    width:100px;
+    height:100px;
+    display:flex;
+    /* border: 2px solid pink; */
+
+    
+}
+.text{
+    color:red;
+    padding-top:40px;
+    padding-left:25px;
+    /* display:flex; */
+    font-style: italic;
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    
+}
+ul{
+    display:flex;
+    list-style:none;
+    color:white;
+    padding-left:50px;
+    /* border:2px solid pink; */
+}
+ul li{
+    margin-left:30px;
+    margin-top:60px;
+    font-size: x-large;
+
+}
+ul li a{
+    text-decoration:none;
+    color:skyblue;
+} 
+.sign1{
+    background-color:red;
+    border: none;
+    /* border:2px solid yellow; */
+    color: white;
+    padding: 2px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left:200px;
+    margin-top:50px;
+    cursor: pointer;
+}
+button a{
+    text-decoration: none;
+    color:white;
+    font-weight: bolder;
+}
+#About{
+    background-color: skyblue;
+    display:flex;
+    color:black;
+    font-weight: bolder;
+
+}
+.head{
+    margin-left:45vw;
+    font-weight:bolder;
+}
+.para{
+    padding-left:50px;
+    background-color: pink;
+    color:black;
+}
+.photos{
+    width:100vw;
+    padding-bottom:50px;
+    padding-top:50px;
+    display:flex;
+    border:2px solid red;
+}
+.picts img{
+    width:25vw;
+    height:500px;
+
+}
+#resource{
+    text-align: center;
+    background-color:black;
+    color:white;
+}
+.relist{
+    padding-left:50px;
+    padding-top:20px;
+    background-color:skyblue;
+    font-weight: bolder;
+    padding-bottom: 20px;
+}
+#contact{
+    text-align:center;
+    background-color:black;
+    color:white;
+
+}
+#signup{
+    text-align:center;
+    background-color:black;
+    color:white;
+
+}
+.tab{
+    background-color:white;
+    margin-top:20px;
+}
+.conlist{
+    padding-left:30px;
+    padding-top:20px;
+    background-color:skyblue;
+    font-weight: bolder;
+    padding-bottom: 20px;
+}
+.details{
+    padding-top:30px;
+    padding-left:40vw;
+}
+#dee{
+    background-color: blueviolet;
+    width:600px;
+    text-align:center;
+}
+#input-label{
+
+    text-align: center;
+    margin-top:20px;
+    color:black;
+    font-weight: bolder;
+}
+
+
+*{
+    margin:100;
+    padding:100;
+}
